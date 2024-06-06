@@ -33,8 +33,6 @@
 ## 3️⃣ API 명세서,기술 스택 및 아키텍처
 - ### [API 명세서(Notion)](https://spark-pudding-194.notion.site/API-3c265388d59c417aa08ca0b19c162809?pvs=4)
 
-- ### 기술 스택
-<img src='assets/기술스택.png' width="800px">
 
 - ### 아키텍쳐
 <img src='assets/아키텍처.png' width="800px">
